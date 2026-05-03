@@ -1,6 +1,6 @@
 # Daily Diet em React Native
 
-Aplicativo React Native em JavaScript inspirado: listagem de refeicoes, cadastro, edicao, exclusao, resumo estatistico e telas de feedback.
+Aplicativo React Native em JavaScript: listagem de refeicoes, cadastro, edicao, exclusao, resumo estatistico e telas de feedback.
 
 ## Como rodar
 
